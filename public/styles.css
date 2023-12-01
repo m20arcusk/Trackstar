@@ -1,0 +1,10 @@
+#RaceTimerOverlay {
+    background-color: blanchedalmond;
+    opacity: 0.5;
+    position: fixed;
+    width: 100px;
+    height: 100px;
+    bottom: 20px;
+    left: 20px;
+    z-index: 1090000000000000;
+}
