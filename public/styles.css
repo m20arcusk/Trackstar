@@ -1,11 +1,8 @@
 #RaceTimerOverlay {
-    /* background-color: blanchedalmond; */
-    opacity: 0.5;
+    background-color: white;
     position: fixed;
-    width: 100px;
-    height: 100px;
-    bottom: 20px;
-    left: 20px;
+    width: 200px;
+    height: 200px;
     z-index: 1090000000000000;
   }
   * {
@@ -30,9 +27,6 @@
     width: 550px;
     height: 248px;
     display: block;
-    position: absolute;
-    top: 50%;
-    left: 50%;
     margin-left: -275px;
     margin-top: -124px;
     color: white;
